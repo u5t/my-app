@@ -12,7 +12,7 @@ type dataType = {
   data: number,
 }
 
-const googleCsvUrl = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSnTrkzYm-Z3dD7erHNV_N7-EbAXJh1MdnBeajgWx2R4mHbxqwp8vzIwk6UFRm50Z_GaIovARIGwodU/pub?output=csv'
+const googleCsvUrl = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRR68X5J1fHypJJ_iLWjZtgsBJhcM3Uhlhii9Yomb3fBu1l-Xh_Uxda0ffVecRLNwbgWoXfrfpYg8i_/pub?output=csv'
 const unit = '円';
 
 const style = {
